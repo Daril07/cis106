@@ -9,6 +9,9 @@ Semester: Fall 22
 Has no submission 
 
 ## Question 2
+![q2](q2.png)
+
+## Question 3
 
 | Program purpose     | Package Name     | Version                      |
 | ------------------- | ---------------- | ---------------------------- |
