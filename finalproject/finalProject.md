@@ -40,15 +40,18 @@ SSH means Secure Shell or Secure Socket Shell, which is a network protocol that 
 # Final Project
 
 ![p1.1](p1.1.png)
+**Ubuntu Server Installation**
 ![p1.2](p1.2.png)
+**Ubuntu Server settings**
 ![p1.1](p1.1.png)
+**Ubuntu Server log in**
 ![p2](p2.png)
+**Ubuntu Server ip address and my router ip addr**
 ![p2.1](p2.1.png)
-
-**Still give me problems after I checked all the numbers one by one and the spaces too**
+**Set the network to attach to a bridged adapter**
 
 ![p2.2](p2.2.png)
-
+**Still give me problems after I checked all the numbers one by one and the spaces too**
 
 **Here is the website**
 ![website](website.png)
